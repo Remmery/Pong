@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="Pong.Presentation.Setup.firstStep"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pong.Presentation.Setup"
+             mc:Ignorable="d" d:DesignWidth="509.871" Height="315.266" Width="510"
+             >
+    <Grid>
+        <Label x:Name="labelTitle" Content="PONG" Margin="10,10,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontWeight="Bold" FontSize="29.333" FontFamily="Poor Richard"/>
+        <Label x:Name="labelDescription" Content="This is the initial setup of our game. Please fill in the fields." HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,48,0,0" FontSize="16" FontStyle="Italic"/>
+        <Label x:Name="labelNameFirst" Content="First player name:" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.028,-0.35" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="labelNameSecond" Content="Second player name:" HorizontalAlignment="Left" Margin="10,156,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxFirstName" HorizontalAlignment="Left" Height="23" Margin="216,128,0,0" TextWrapping="Wrap" Text="Please fill in your name" VerticalAlignment="Top" Width="268" FontStyle="Italic"/>
+        <TextBox x:Name="textBoxSecondName" HorizontalAlignment="Left" Height="23" Margin="216,164,0,0" TextWrapping="Wrap" Text="Please fill in your name" VerticalAlignment="Top" Width="268" FontStyle="Italic"/>
+        <Label x:Name="labelNumberOfPlayers" Content="Number of players:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,89,0,0" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxNumberOfPlayers" HorizontalAlignment="Left" Height="20" TextWrapping="Wrap" VerticalAlignment="Top" Width="50" Margin="216,97,0,0" TextChanged="textBoxNumberOfPlayers_TextChanged" Text="2"/>
+        <Button x:Name="cmdDown" Content="▼" HorizontalAlignment="Left" Margin="285,97,0,0" VerticalAlignment="Top" Width="20" Height="20" Click="cmdDown_Click"/>
+        <Button x:Name="cmdUp" Content="▲" HorizontalAlignment="Left" VerticalAlignment="Top" Width="20" Margin="265,97,0,0" Click="cmdUp_Click" Height="20"/>
+        <Label x:Name="labelNameThird" Content="Third player name:" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxThirdName" HorizontalAlignment="Left" Height="23" Margin="216,200,0,0" TextWrapping="Wrap" Text="Please fill in your name" VerticalAlignment="Top" Width="268" FontStyle="Italic"/>
+        <Label x:Name="labelNameFourth" Content="Fourth player name:" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+        <TextBox x:Name="textBoxFourthName" HorizontalAlignment="Left" Height="23" Margin="216,236,0,0" TextWrapping="Wrap" Text="Please fill in your name" VerticalAlignment="Top" Width="268" FontStyle="Italic"/>
+        <Button x:Name="buttonContinue" Content="Continue" HorizontalAlignment="Left" Margin="279,284,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold" Click="buttonContinue_Click"/>
+        <Button x:Name="buttonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="384,284,0,0" VerticalAlignment="Top" Width="100" FontStyle="Italic" Click="buttonCancel_Click"/>
+    </Grid>
+</UserControl>
