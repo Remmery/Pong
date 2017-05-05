@@ -1,0 +1,626 @@
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\App.g.cs
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\Pong.exe
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\Pong.pdb
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong.exe
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong.pdb
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.dll
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.xml
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Hendrik\Bureaublad\Project\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Presentation\Setup\test.g.cs
+D:\Hendrik\Bureaublad\Project\Pong\Pong\obj\Debug\Presentation\Setup\test.baml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Pong.exe
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Pong.pdb
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.xml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\App.g.cs
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.exe
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.pdb
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Project Pong\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Project Pong (Hendrik)\Project Pong\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Project Pong - Compleet\Project Pong\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Project Pong - Compleet v1.1\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Project Pong - Current\Project Pong\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.exe
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.pdb
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Pong.exe
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Pong.pdb
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.xml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\App.g.cs
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Thomas\Downloads\Pong v2.5.2\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Pong v2.5.3\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.Presentation.Setup.dummyProjectionForm.resources
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Pong v2.5.5\Pong v2.5.3\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.exe
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.pdb
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Pong.exe
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Pong.pdb
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.xml
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\App.g.cs
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Hendrik\Bureaublad\Pong\Pong\obj\Debug\Pong.Presentation.Setup.gameData.resources
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\MainWindow.g.cs
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\MainWindow.baml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.Presentation.Setup.gameData.resources
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.Presentation.Setup.Projection.resources
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Pong 2.7\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.pdb
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Pong.exe
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Pong.pdb
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.xml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\App.g.cs
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\MainWindow.g.cs
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Presentation\MainWindow.baml
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.Presentation.gameData.resources
+D:\Downloads\Pong\Pong 2.8\Pong\Pong\obj\Debug\Pong.Presentation.Projection.resources
+D:\Downloads\Pong\Pong 3.0\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Downloads\Pong\Pong 3.0\Pong\Pong\obj\Debug\Pong.exe
+D:\Downloads\Pong\Pong 3.0\Pong\Pong\obj\Debug\Pong.pdb
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Pong.exe.config
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.exe
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.pdb
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Pong.exe
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Pong.pdb
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Imaging.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Math.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Video.DirectShow.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Video.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.xml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Imaging.xml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Math.xml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Video.xml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\AForge.Video.DirectShow.xml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\MainWindow.g.cs
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.g.cs
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.g.cs
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.g.cs
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.g.cs
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\App.g.cs
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong_MarkupCompile.cache
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong_MarkupCompile.lref
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\MainWindow.baml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\firstStep.baml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\fourthStep.baml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\secondStep.baml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Presentation\Setup\thirdStep.baml
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.g.resources
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.Presentation.gameData.resources
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.Presentation.Projection.resources
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+D:\Thomas\Downloads\Pong 3.0\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache

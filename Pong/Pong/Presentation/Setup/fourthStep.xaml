@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="Pong.Presentation.Setup.fourthStep"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pong.Presentation.Setup"
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             mc:Ignorable="d" Width="512.203" Height="561">
+    <Grid Width="510" Margin="1,21,1,0">
+        <!--Header-->
+        <Label x:Name="labelTitle" Content="PONG" Margin="216,10,206,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontWeight="Bold" FontSize="29.333" FontFamily="Poor Richard" Height="43" Width="88"/>
+        <Label x:Name="labelDescription" Content="This is the general setup of the game." HorizontalAlignment="Center" VerticalAlignment="Top" Margin="129,53,106,0" FontSize="16" FontStyle="Italic" Height="31" Width="275"/>
+        <!--General-->
+        <GroupBox x:Name="groupBoxGeneral" Header="General" HorizontalAlignment="Left" Margin="18,95,0,0" VerticalAlignment="Top" Height="90" Width="220" Foreground="Black" Background="#05000000">
+            <Grid Margin="2,0,-2,0">
+                <Label x:Name="labelTimeLimit" Content="Time limit:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontWeight="Normal"/>
+                <xctk:IntegerUpDown x:Name="integerUpDownTimeLimit" Value="5" Increment="1" Maximum="30" Minimum="1" Margin="90,15,70,35" Width="48" Height="18"/>
+                <Label x:Name="LabelMaxScore" Content="Max score:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" FontWeight="Normal"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownMaxScore" Value="10" Increment="1" Maximum="20" Minimum="3" Margin="90,47,70,3" TextOptions.TextHintingMode="Fixed" Width="48" Height="18"/>
+                <Label x:Name="labelMinutes" Content="minutes" HorizontalAlignment="Left" Margin="143,10,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+                <Label x:Name="labelMaxScore" Content="points" HorizontalAlignment="Left" Margin="141,41,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+            </Grid>
+        </GroupBox>
+        <!--Player-->
+        <GroupBox x:Name="groupBoxPlayer" Header="Player" HorizontalAlignment="Left" Margin="18,190,0,0" VerticalAlignment="Top" Height="146" Width="220" Background="#05000000">
+            <Grid>
+                <Label x:Name="labelStartHealth" Content="Start health:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownStartHealth" Value="5" Increment="1" Maximum="10" Minimum="5" Margin="94,16,66,90" TextOptions.TextHintingMode="Fixed" Height="18" Width="48"/>
+                <Label x:Name="LabelMaxHealth" Content="Max health:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownMaxHealth" Value="10" Increment="1" Maximum="15" Minimum="3" Margin="94,46,66,60" TextOptions.TextHintingMode="Fixed" Height="18" Width="48"/>
+                <Label x:Name="labelMinHealth" Content="Min health:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownMinHealth" Value="3" Increment="1" Maximum="5" Minimum="1" Margin="94,77,66,29" TextOptions.TextHintingMode="Fixed" Height="18" Width="48"/>
+            </Grid>
+        </GroupBox>
+        <!--Power Ups-->
+        <GroupBox x:Name="groupBoxPowerups" Header="Power-ups" HorizontalAlignment="Left" Margin="243,95,0,0" VerticalAlignment="Top" Height="392" Width="257" Background="#05000000">
+            <Grid>
+                <Rectangle x:Name="rectanglePowerups" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="70" Stroke="#7F000000" VerticalAlignment="Top" Width="240" Margin="3,3,0,0" StrokeThickness="2"/>
+                <CheckBox x:Name="checkBoxBombPowerup" Content="Bomb" IsChecked="True" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,107,0,0" Checked="checkBoxBombPowerup_Checked" Unchecked="checkBoxBombPowerup_Checked"/>
+                <CheckBox x:Name="checkBoxHealthPowerUp" Content="Health" IsChecked="True" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,127,0,0" Checked="checkBoxHealthPowerUp_Checked" Unchecked="checkBoxHealthPowerUp_Checked"/>
+                <CheckBox x:Name="checkBoxMultiballPowerup" Content="Multiball" IsChecked="True" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,147,0,0" Checked="checkBoxMultiballPowerup_Checked" Unchecked="checkBoxMultiballPowerup_Checked"/>
+                <CheckBox x:Name="checkBoxReversePowerup" Content="Reverse" IsChecked="True" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,167,0,0" Checked="checkBoxReversePowerup_Checked" Unchecked="checkBoxReversePowerup_Checked"/>
+                <CheckBox x:Name="checkBoxSpeedPowerup" Content="Speedball" IsChecked="True" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="27,187,0,0" Checked="checkBoxSpeedPowerup_Checked" Unchecked="checkBoxSpeedPowerup_Checked"/>
+                <Label x:Name="LabelPowerupQuestion" Content="What power-ups would you activate?" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top" FontStyle="Italic"/>
+                <Label x:Name="labelChanceOfAppearance" Content="Chance of appearance:" HorizontalAlignment="Left" Margin="10,215,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="LabelDamage" Content="Damage Bomb" HorizontalAlignment="Left" Margin="10,246,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="LabelShieldHealing" Content="Healing shield" HorizontalAlignment="Left" Margin="10,277,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="LabelPlus" Content="+" HorizontalAlignment="Left" Margin="125,307,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="LabelSpeedBall" Content="Speedball" HorizontalAlignment="Left" Margin="10,308,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="labelReverseTime" Content="Reverse time" HorizontalAlignment="Left" Margin="10,339,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownChance" Value="20" Increment="1" Maximum="50" Minimum="5" Margin="143,220,55,132" TextOptions.TextHintingMode="Fixed" Height="18" Width="47" IsUndoEnabled="False"/>
+                <Label x:Name="labelProcent" Content="%" HorizontalAlignment="Left" Margin="193,216,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="labelProcent2" Content="%" HorizontalAlignment="Left" Margin="193,307,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="labelSeconds" Content="seconds" HorizontalAlignment="Left" Margin="193,339,-1,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownDamageBomb" Value="2" Increment="1" Maximum="5" Minimum="1" Margin="143,254,55,98" TextOptions.TextHintingMode="Fixed" Height="18" Width="47"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownHealingShield" Value="2" Increment="1" Maximum="5" Minimum="1" Margin="143,280,55,72" TextOptions.TextHintingMode="Fixed" Height="18" Width="47"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownSpeedball" Value="50" Increment="1" Maximum="200" Minimum="10" Margin="143,311,55,41" TextOptions.TextHintingMode="Fixed" Height="18" Width="47"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownReverseTime" Value="10" Increment="5" Maximum="20" Minimum="5" Margin="145,344,53,8" TextOptions.TextHintingMode="Fixed" Height="18" Width="47" Text="10" UpdateValueOnEnterKey="True"/>
+                <Image x:Name="imageBomb" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="35" Margin="10,11,0,0" OpacityMask="#FC000000" Source="/Pong;component/Presentation/Images/BombPowerUp2.png"/>
+                <Image x:Name="imageHealth" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="35" Margin="59,12,0,0" OpacityMask="#FC000000" Source="/Pong;component/Presentation/Images/HealthPowerUp2.png"/>
+                <Image x:Name="imageMultiball" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="35" Margin="105,12,0,0" OpacityMask="#FC000000" Source="/Pong;component/Presentation/Images/MultiBallPowerUp.png"/>
+                <Image x:Name="imageReverse" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="35" Margin="152,12,0,0" OpacityMask="#FC000000" Source="/Pong;component/Presentation/Images/ReversePowerUp2.png"/>
+                <Image x:Name="imageSpeedball" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Width="35" Margin="197,12,0,0" OpacityMask="#FC000000" Source="/Pong;component/Presentation/Images/SpeedPowerUp3.png"/>
+                <Label x:Name="labelBomb" Content="Bomb" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="9,45,0,0"/>
+                <Label x:Name="labelShield" Content="Health" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="53,45,0,0"/>
+                <Label x:Name="labelMultiball" Content="Multiball" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="93,45,0,0"/>
+                <Label x:Name="labelReverse" Content="Reverse" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="144,45,0,0"/>
+                <Label x:Name="labelSpeed" Content="Speed" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="193,45,0,0"/>
+            </Grid>
+        </GroupBox>
+        <!--Ball-->
+        <GroupBox x:Name="groupBoxBall" Header="Ball" HorizontalAlignment="Left" Margin="18,341,0,-8" VerticalAlignment="Top" Height="146" Width="220" Background="#05000000">
+            <Grid>
+                <Label x:Name="labelStartVelocity" Content="Start velocity:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownStartVelocity" Value="4" Increment="1" Maximum="10" Minimum="2" Margin="94,16,66,90" TextOptions.TextHintingMode="Fixed" Height="18" Width="48"/>
+                <Label x:Name="LabelMaxVelocity" Content="Max velocity:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownMaxVelocity" Value="10" Increment="1" Maximum="20" Minimum="3" Margin="94,47,66,59" TextOptions.TextHintingMode="Fixed" Height="18" Width="48"/>
+                <Label x:Name="labelAcceleration" Content="Acceleration:" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+                <xctk:IntegerUpDown x:Name="IntegerUpDownAcceleration" Value="5" Increment="1" Maximum="20" Minimum="3" Margin="94,77,66,29" TextOptions.TextHintingMode="Fixed" Height="18" Width="48"/>
+                <Label x:Name="labelProcent3" Content="%" HorizontalAlignment="Left" Margin="144,73,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <!--Continue or exit-->
+        <Button x:Name="buttonPlay" Content="Play the game" HorizontalAlignment="Left" Margin="295,503,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold" Click="buttonPlay_Click"/>
+        <Button x:Name="buttonCancel" Content="Cancel" HorizontalAlignment="Left" Margin="400,503,0,0" VerticalAlignment="Top" Width="100" FontStyle="Italic" Click="buttonCancel_Click"/>
+    </Grid>
+</UserControl>
